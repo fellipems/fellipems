@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<code>
-    <a href="https://www.linkedin.com/in/fellipe-martins-de-sousa-07446612a/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code><br>
+<code><a href="https://www.linkedin.com/in/fellipe-martins-de-sousa-07446612a/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code><br>
+    
 
 ![Fellipe's github stats](https://github-readme-stats.vercel.app/api?username=fellipems&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fellipems&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
