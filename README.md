@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![Fellipe github stats](https://github-readme-stats.vercel.app/api?username=fellipems)](https://github.com/brunopulis/github-readme-stats)
+![Fellipe's github stats](https://github-readme-stats.vercel.app/api?username=fellipems&show_icons=true&theme=dracula)
 
