@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <h1 align="center">Olá, prazer ter sua visita em meu perfil 👋! Me chamo Fellipe.</h1>
 <h3 align="center">Um iniciante programador. Trabalhando atualmente como desenvolvedor Jr Java 😄</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fellipems&label=Profile%20views&color=0e75b6&style=flat" alt="fellipems" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fellipems&label=Profile%20views&color=0e75b6&style=flat" alt="fellipems" /> </p>
 
 - 📄 `Sobre mim e minha experiência com desenvolvimento:` Cursando, atualmente, Análise e Desenvolvimento de Sistemas(me formo este ano ainda 👏), tive pouca experiência com desenvolvimento nos meus dois primeiros anos de faculdade, aplicava para vagas de estágio mas nunca era aceito (por isso que digo que tudo tem sua hora, continue estudando e aplicando que seu esforço será recompensado! Pode demorar mas sempre vem sua hora e momento de crescer!).
-Então que, em outubro de 2020, finalmente chegou a minha resposta sim para uma vaga em desenvolvimento fullstack Jr, minha hora de colocar em prática e minha pouca experiência em projetos e desenvolviemnto da "vida real" chegaram! Hoje estou trabalhando com linguagem Java, framework Spring Boot no back-end e no front -desse mesmo projeto- estou usando Angular. Está sendo desafiador e muito bom, todo dia aprendendo coisas novas e colocando sempre em prática. Tenho muito o que aprender ainda, mas com total dedicação, estudo, perguntas certas, conseguirei desenvolver algo sozinho por completo e crescer pessoalmente e em minha carreira profissional.
+Então que, em outubro de 2020, finalmente chegou a minha resposta SIM para uma vaga em desenvolvimento fullstack Jr(que é onde estou hoje, meu primeiro trabalho na área de desenvolvimento), minha hora de colocar em prática e aumentar a pouca experiência em projetos e desenvolvimento da "vida real" que tenho chegaram! Hoje estou trabalhando com linguagem Java, framework Spring Boot no back-end e no front -desse mesmo projeto- estou usando Angular. Está sendo desafiador e muito bom, todo dia aprendendo coisas novas e colocando sempre em prática. Tenho muito o que aprender ainda, mas com total dedicação, estudo, ajuda e perguntas certas, conseguirei desenvolver algo sozinho por completo e crescer pessoalmente e em minha carreira profissional.
 
 - 📝 `Estou aprendendo atualmente:` **Java, Framework Spring e Angular**
 
