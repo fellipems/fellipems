@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/fellipems/fellipems/blob/main/Desenvolvedor%20Jr.png?raw=true)
 
+
+https://github.com/fellipems/fellipems/blob/main/Desenvolvedor%20Jr.png
 <code><a href="https://www.linkedin.com/in/fellipe-martins-de-sousa-07446612a/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code><br>
     
 
