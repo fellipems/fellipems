@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  [![Fellipe github stats](https://github-readme-stats.vercel.app/api?username=fellipems)](https://github.com/brunopulis/github-readme-stats)
+
