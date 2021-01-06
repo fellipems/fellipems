@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<h1 align="center">Olá 👋,eu sou Fellipe</h1>
+<h1 align="center">Olá, prazer ter sua visita em meu perfil 👋! Me chamo Fellipe.</h1>
 <h3 align="center">Um iniciante programador. Trabalhando atualmente como desenvolvedor Jr Java 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fellipems&label=Profile%20views&color=0e75b6&style=flat" alt="fellipems" /> </p>
