@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fellipems&label=Profile%20views&color=0e75b6&style=flat" alt="fellipems" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fellipems" alt="fellipems" /></a> </p>
-
 - 🌱 Estou aprendendo atualmente: **Java, Framework Spring e Angular**
 
 - 📫 Qualquer coisa pode em contactar por email: **fellipems14@gmail.com**
