@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fellipems&show_icons=true&locale=en" alt="fellipems" /></p>
 
 
-<code><a align="center" href="https://www.linkedin.com/in/fellipe-martins-de-sousa-07446612a/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code><br>
+<p align="center"><code><a href="https://www.linkedin.com/in/fellipe-martins-de-sousa-07446612a/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code></p><br>
     
 
 ![Fellipe's github stats](https://github-readme-stats.vercel.app/api?username=fellipems&show_icons=true&theme=dracula)
